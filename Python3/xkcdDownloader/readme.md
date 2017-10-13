@@ -58,5 +58,3 @@ Replace `python run.py` with `run.exe`
 * run.exe -v -s 100
 	downloads from the 100th comic till the last comic and outputs logs on the console
 
-
-Have Fun xD
