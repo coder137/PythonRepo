@@ -11,6 +11,8 @@ Thereby maximizing efficiency
 
 # Pre-requisites
 
+Install dependencies using `pip install -r requirements.txt`
+
 External Modules used are
 * requests
 	* `pip install requests`
